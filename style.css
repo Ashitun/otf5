@@ -1,0 +1,53 @@
+.backGround{
+    background-image: url("https://t3.ftcdn.net/jpg/01/22/71/96/360_F_122719641_V0yw2cAOrfxsON3HeWi2Sf4iVxhv27QO.jpg");
+    width: 100vw;
+    height: 100vw;
+    background-size: 100%;
+}
+.image{
+    height: 100px;
+    width: 100px;
+    border-radius: 100%;
+    margin-top: 5%;
+}
+.center{
+    text-align: center;
+}
+.shadow{
+    margin: auto;
+    border: 8px solid rgba(0,0,0,0.2);
+    width: 100px;
+    border-radius: 100%;
+    margin-top: 20px;
+}
+.Box{
+    width: 50%;
+    height: 30px;
+    font-size: larger; 
+}
+.button{
+   background-color:white;
+   margin-left: 1%;
+   margin-top: 40px;
+   border-radius: 2px;
+   width: 100px;
+   height: 20px;
+}
+.checkBox-style {
+    height: 15px;
+    width: 15px;
+    margin: 4px;
+}
+.label{
+     margin-left: 18%;
+    bottom: 5pc;
+}
+.para-style
+{
+    width: 100%;
+}
+.span-style
+{
+    color:rgb(255, 9, 222);
+    text-decoration:underline;
+}
